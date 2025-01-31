@@ -183,6 +183,8 @@ Once you've made your changes:
 [@davemetrics](http://twitter.com/davemetrics)
 
 
+
+
 ## Licensing
 
 See the [LICENSE](https://github.com/recurser/string-is/blob/develop/LICENSE) for details.
